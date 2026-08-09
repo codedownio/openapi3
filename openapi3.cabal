@@ -68,7 +68,7 @@ library
 
   -- GHC boot libraries
   build-depends:
-      base             >=4.11.1.0  && <4.22
+      base             >=4.11.1.0  && <4.23
     , bytestring       >=0.10.8.2  && <0.13
     , containers       >=0.5.11.0  && <0.9
     , template-haskell >=2.13.0.0  && <2.24
